@@ -11,6 +11,7 @@ RESTFUL é um projeto-escola desenvolvido com React...
 
 #### ✔️ Verificando a versão do _node.js_ instalada 📙:
 Node.js é um software de código aberto, multiplataforma, que executa códigos JavaScript no backend/servidor e frontend/interface, baseado no V8 interpretador de JavaScript em C++ do Google, mantido pela fundação Node.js em parceria com a Linux Foundation.
+
     luciolemos@dev:~/nextlevelweek/restful$ node -v
     v15.14.0
 #### ✔️ Verificando a versão do yarn instalada 📙:
