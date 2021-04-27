@@ -7,26 +7,26 @@
 
 ## RESTFUL_PROJECT 📌: 
 ### Comand Line Interface (CLI) no terminal 💻 do GNOME.
-#### 1. Criando o diretório do projeto 📙:
+#### ✔️ Criando o diretório do projeto 📙:
     luciolemos@dev:~/vscode$ mkdir restful_project
 
-#### 2. Entrando no diretório do projeto e criando os arquivos "server.js", "data.json" e "readme.md" 📙:
+#### ✔️ Entrando no diretório do projeto e criando os arquivos "server.js", "data.json" e "readme.md" 📙:
     luciolemos@dev:~/vscode$ cd restful_project
     luciolemos@dev:~/vscode/restful_project$ touch server.js data.json readme.md
 
-#### 3. Verificando os arquivos criados em restful_projects: 📙
+#### ✔️ Verificando os arquivos criados em restful_projects: 📙
     luciolemos@dev:~/vscode/restful_project$ ls -l
     total 0
     -rw-rw-r-- 1 luciolemos luciolemos 0 abr 25 19:47 data.json
     -rw-rw-r-- 1 luciolemos luciolemos 0 abr 25 19:47 readme.md
     -rw-rw-r-- 1 luciolemos luciolemos 0 abr 25 19:47 server.js
 
-#### 4. Carregando o projeto no VSCode 📙:
+#### ✔️ Carregando o projeto no VSCode 📙:
     luciolemos@dev:~/vscode/restful_project$ code .
 
-#### 5. Abrindo o terminal (ctrl+j)
+#### ✔️ Abrindo o terminal (ctrl+j)
 
-#### 6. Iniciando com o Yarn 📙:
+#### ✔️ Iniciando com o Yarn 📙:
     luciolemos@dev:~/nextlevelweek/restful$ yarn init -y
 obs: nesse momento é gerado o arquivo "_package.json_", com o seguinte conteúdo: 
     
@@ -36,7 +36,7 @@ obs: nesse momento é gerado o arquivo "_package.json_", com o seguinte conteúd
     "main": "index.js",
     "license": "MIT",                             
     }
-#### 7. Adicionando o express 📙:
+#### ✔️ Adicionando o express 📙:
     luciolemos@dev:~/nextlevelweek/restful$ yarn add express
 Obs; o comando acima adicionará ao arquivo "_package.json_", a seguinte dependência:
 
@@ -47,7 +47,7 @@ Obs; o comando acima adicionará ao arquivo "_package.json_", a seguinte depend�
     ...
 essa dependência criará na esrutura de diretórios do projeto o diretório "_node_modules_".
 
-#### 8. Etrutura final do arquivo "_package.json_" 📙.
+#### ✔️ Etrutura final do arquivo "_package.json_" 📙.
     {
     "name": "restful",
     "version": "1.0.0",
@@ -58,6 +58,6 @@ essa dependência criará na esrutura de diretórios do projeto o diretório "_n
     }
     }
 
-#### 9. Importando para o "data.json", [dados de exemplo](https://jsonplaceholder.typicode.com/users) 📙.
+#### ✔️ Importando para o "data.json", [dados de exemplo](https://jsonplaceholder.typicode.com/users) 📙.
 
 
