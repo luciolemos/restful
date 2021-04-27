@@ -6,7 +6,8 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://studio.youtube.com/channel/UCrNM1nr2nw0lSqMD10m6rLw)](#)
 
 ## RESTFUL 📌: 
-### Comand Line Interface (CLI) no terminal 💻 do GNOME.
+### Escopo do projeto RESTFUL 💻.
+RESTFUL é um projeto-escola desenvolvido com React...
 
 #### ✔️ Verificando a versão do node instalada 📙:
     luciolemos@dev:~/nextlevelweek/restful$ node -v
