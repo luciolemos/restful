@@ -7,7 +7,7 @@
 
 ## RESTFUL 📌: 
 ### Comand Line Interface (CLI) no terminal 💻 do GNOME.
-#### ✔️ Criando o diretório do meu projeto 📙:
+#### ✔️ Criando o diretório do projeto 📙:
     luciolemos@dev:~/vscode$ mkdir restful_project
 
 #### ✔️ Entrando no diretório do projeto e criando os arquivos "server.js", "data.json" e "readme.md" 📙:
