@@ -7,6 +7,16 @@
 
 ## RESTFUL 📌: 
 ### Comand Line Interface (CLI) no terminal 💻 do GNOME.
+
+#### ✔️ Verificando a versão do node instalada 📙:
+    luciolemos@dev:~/nextlevelweek/restful$ node -v
+    v15.14.0
+#### ✔️ Verificando a versão do yarn instalada 📙:
+    luciolemos@dev:~/nextlevelweek/restful$ yarn -v
+    1.22.10
+#### ✔️ Verificando a versão do npm instalada 📙:
+    luciolemos@dev:~/nextlevelweek/restful$ npm -version
+    7.10.0
 #### ✔️ Criando dentro de _nextlevelweek_, o diretório do projeto 📙:
     luciolemos@dev:~/nextlevelweek$ mkdir restful
    
