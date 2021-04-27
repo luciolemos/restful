@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lucciolemos)](https://twitter.com/lucciolemos)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://studio.youtube.com/channel/UCrNM1nr2nw0lSqMD10m6rLw)](#)
 
-## RESTFUL_PROJECT 📌: 
+## RESTFUL 📌: 
 ### Comand Line Interface (CLI) no terminal 💻 do GNOME.
 #### ✔️ Criando o diretório do projeto 📙:
     luciolemos@dev:~/vscode$ mkdir restful_project
