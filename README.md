@@ -7,22 +7,22 @@
 
 ## RESTFUL 📌: 
 ### Comand Line Interface (CLI) no terminal 💻 do GNOME.
-#### ✔️ Criando o diretório do projeto 📙:
-    luciolemos@dev:~/vscode$ mkdir restful_project
-
+#### ✔️ Criando dentro de _nextlevelweek_, o diretório do projeto 📙:
+    luciolemos@dev:~/nextlevelweek$ mkdir restful
+   
 #### ✔️ Entrando no diretório do projeto e criando os arquivos "server.js", "data.json" e "readme.md" 📙:
-    luciolemos@dev:~/vscode$ cd restful_project
-    luciolemos@dev:~/vscode/restful_project$ touch server.js data.json readme.md
-
+    luciolemos@dev:~/nextlevelweek$ cd restful
+    luciolemos@dev:~/nextlevelweek/restful$ touch server.js data.json readme.md
+    
 #### ✔️ Verificando os arquivos criados em restful_projects: 📙
-    luciolemos@dev:~/vscode/restful_project$ ls -l
+    luciolemos@dev:~/nextlevelweek/restful$ ls -l
     total 0
     -rw-rw-r-- 1 luciolemos luciolemos 0 abr 25 19:47 data.json
     -rw-rw-r-- 1 luciolemos luciolemos 0 abr 25 19:47 readme.md
     -rw-rw-r-- 1 luciolemos luciolemos 0 abr 25 19:47 server.js
 
 #### ✔️ Carregando o projeto no VSCode 📙:
-    luciolemos@dev:~/vscode/restful_project$ code .
+    luciolemos@dev:~/nextlevelweek/restful$ code .
 
 #### ✔️ Abrindo o terminal (ctrl+j)
 
