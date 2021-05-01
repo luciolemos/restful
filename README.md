@@ -6,6 +6,9 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://studio.youtube.com/channel/UCrNM1nr2nw0lSqMD10m6rLw)](#)
 
 ## RESTFUL 📌: 
+### O que é REST?
+REST significa Representational State Transfer. Em português, Transferência de Estado Representacional. Trata-se de uma abstração da arquitetura da Web. Resumidamente, o REST consiste em princípios/regras/constraints que, quando seguidas, permitem a criação de um projeto com interfaces bem definidas.
+
 ### Escopo do projeto RESTFUL 💻.
 RESTFUL é um projeto-escola desenvolvido com React...
 
@@ -39,7 +42,7 @@ Node.js é um software de código aberto, multiplataforma, que executa códigos 
 
 #### ✔️ Abrindo o terminal (ctrl+j)
 
-#### ✔️ Iniciando com o Yarn 📙:
+#### ✔️ Iniciando com o _Yarn_ 📙:
     luciolemos@dev:~/nextlevelweek/restful$ yarn init -y
 obs: nesse momento é gerado o arquivo "_package.json_", com o seguinte conteúdo: 
     
