@@ -8,6 +8,12 @@
 ## RESTFUL 📌: 
 ### O que é REST?
 REST significa Representational State Transfer. Em português, Transferência de Estado Representacional. Trata-se de uma abstração da arquitetura da Web. Resumidamente, o REST consiste em princípios/regras/constraints que, quando seguidas, permitem a criação de um projeto com interfaces bem definidas.
+#### Boas práticas
+- Verbos
+- GET: receber dados de um resource;
+- POST: enviar dados ou informações para serem processados por um resource;
+- PUT: atualizar dados de um resource;
+- DELETE: deletar um resource.
 
 ### Escopo do projeto RESTFUL 💻.
 RESTFUL é um projeto-escola desenvolvido com React...
@@ -26,7 +32,7 @@ Node.js é um software de código aberto, multiplataforma, que executa códigos 
 #### ✔️ Criando dentro de _nextlevelweek_, o diretório do projeto 📙:
     luciolemos@dev:~/nextlevelweek$ mkdir restful
    
-#### ✔️ Entrando no diretório do projeto e criando os arquivos "server.js", "data.json" e "readme.md" 📙:
+#### ✔️ Entrando no diretório do projeto e criando os arquivos `server.js`, `data.json` e `readme.md` 📙:
     luciolemos@dev:~/nextlevelweek$ cd restful
     luciolemos@dev:~/nextlevelweek/restful$ touch server.js data.json readme.md
     
@@ -37,10 +43,10 @@ Node.js é um software de código aberto, multiplataforma, que executa códigos 
     -rw-rw-r-- 1 luciolemos luciolemos 0 abr 25 19:47 readme.md
     -rw-rw-r-- 1 luciolemos luciolemos 0 abr 25 19:47 server.js
 
-#### ✔️ Carregando o projeto no VSCode 📙:
+#### ✔️ Carregando o projeto no VSCode com `code .`📙:
     luciolemos@dev:~/nextlevelweek/restful$ code .
 
-#### ✔️ Abrindo o terminal (ctrl+j)
+#### ✔️ Abrindo o terminal com `ctrl+j`.
 
 #### ✔️ Iniciando com o _Yarn_ 📙:
     luciolemos@dev:~/nextlevelweek/restful$ yarn init -y
@@ -52,7 +58,7 @@ obs: nesse momento é gerado o arquivo "_package.json_", com o seguinte conteúd
     "main": "index.js",
     "license": "MIT",                             
     }
-#### ✔️ Adicionando o express 📙:
+#### ✔️ Adicionando o express com `yarn add` 📙:
     luciolemos@dev:~/nextlevelweek/restful$ yarn add express
 Obs; o comando acima adicionará ao arquivo "_package.json_", a seguinte dependência:
 
@@ -63,7 +69,7 @@ Obs; o comando acima adicionará ao arquivo "_package.json_", a seguinte depend�
     ...
 essa dependência criará na esrutura de diretórios do projeto o diretório "_node_modules_".
 
-#### ✔️ Etrutura final do arquivo "_package.json_" 📙.
+#### ✔️ Etrutura final do arquivo `package.json` 📙.
     {
     "name": "restful",
     "version": "1.0.0",
@@ -74,6 +80,6 @@ essa dependência criará na esrutura de diretórios do projeto o diretório "_n
     }
     }
 
-#### ✔️ Importando para o "data.json", [dados de exemplo](https://jsonplaceholder.typicode.com/users) 📙.
+#### ✔️ Importando para o `data.json`, [dados de exemplo](https://jsonplaceholder.typicode.com/users) 📙.
 
 
