@@ -58,7 +58,7 @@ obs: nesse momento é gerado o arquivo "_package.json_", com o seguinte conteúd
     "main": "index.js",
     "license": "MIT",                             
     }
-#### ✔️ Adicionando o express com `yarn add` 📙:
+#### ✔️ Adicionando o express com `yarn add express` 📙:
     luciolemos@dev:~/nextlevelweek/restful$ yarn add express
 Obs; o comando acima adicionará ao arquivo "_package.json_", a seguinte dependência:
 
