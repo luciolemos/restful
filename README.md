@@ -81,6 +81,6 @@ essa dependência criará na esrutura de diretórios do projeto o diretório "_n
     }
 
 #### ✔️ Importando para o `data.json`, [dados de exemplo](https://jsonplaceholder.typicode.com/users) 📙.
-#### ✔️ Startando o servidor📙:
+#### ✔️ Startando o servidor 📙:
     luciolemos@dev:~/nextlevelweek/restful$ node server.js
 
