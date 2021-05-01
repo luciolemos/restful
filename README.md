@@ -7,7 +7,7 @@
 
 ## RESTFUL 📌: 
 ### O que é REST?
-REST significa Representational State Transfer. Em português, Transferência de Estado Representacional. Trata-se de uma abstração da arquitetura da Web. Resumidamente, o REST consiste em princípios/regras/constraints que, quando seguidas, permitem a criação de um projeto com interfaces bem definidas.
+REST significa _Representational State Transfer_. Em português, significa: Transferência de Estado Representacional. Trata-se de uma abstração da arquitetura da Web. Resumidamente, o REST consiste em princípios/regras/constraints que, quando seguidas, permitem a criação de um projeto com interfaces bem definidas.
 #### Boas práticas
 - Verbos
 - GET: receber dados de um resource;
