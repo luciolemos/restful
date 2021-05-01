@@ -1,11 +1,11 @@
 const expresss = require("express");
 const app = expresss();
+const data = require("./data.json");
 
+app.use(express.json());
 app.get("/clients", function(req, res){
 
 });
-
-
 app.get("/clients/:id", function(req, res){});
 app.post("/clients", function(req, res){});
 app.put("/clients/:id", function(req, res){});
