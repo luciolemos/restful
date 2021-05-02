@@ -9,7 +9,7 @@
 ### O que é REST?
 REST significa _Representational State Transfer_. Em português, significa: Transferência de Estado Representacional. Trata-se de uma abstração da arquitetura da Web. Resumidamente, o REST consiste em princípios/regras/constraints que, quando seguidas, permitem a criação de um projeto com interfaces bem definidas.
 #### Boas práticas
-- Verbos
+- Verbos HTTP
 - GET: receber dados de um resource;
 - POST: enviar dados ou informações para serem processados por um resource;
 - PUT: atualizar dados de um resource;
@@ -83,4 +83,3 @@ essa dependência criará na esrutura de diretórios do projeto o diretório "_n
 #### ✔️ Importando para o `data.json`, [dados de exemplo](https://jsonplaceholder.typicode.com/users) 📙.
 #### ✔️ Startando o servidor 📙:
     luciolemos@dev:~/nextlevelweek/restful$ node server.js
-
